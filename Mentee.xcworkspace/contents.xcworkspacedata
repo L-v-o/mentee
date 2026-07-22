@@ -4,4 +4,7 @@
    <FileRef
       location = "group:&#x41f;&#x440;&#x43e;&#x432;&#x435;&#x440;&#x43a;&#x430; &#x443;&#x440;&#x43e;&#x432;&#x43d;&#x44f; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43e;&#x442;&#x447;&#x438;&#x43a;&#x430;.swift">
    </FileRef>
+   <FileRef
+      location = "group:higher order functions.swift">
+   </FileRef>
 </Workspace>
