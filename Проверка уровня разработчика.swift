@@ -110,7 +110,7 @@ final class AwesomeViewController: UIViewController {
 }
 
 
-// Async/Await variant
+// MARK: - Async/Await variant
 
 actor AwesomeStore {
     private var awesomeSet = Set<AwesomeData>()

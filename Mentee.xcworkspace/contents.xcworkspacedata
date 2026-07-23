@@ -7,4 +7,7 @@
    <FileRef
       location = "group:higher order functions.swift">
    </FileRef>
+   <FileRef
+      location = "group:Optional and Result.swift">
+   </FileRef>
 </Workspace>
